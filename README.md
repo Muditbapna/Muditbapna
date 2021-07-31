@@ -1,4 +1,4 @@
-<h1 align='center'>Hey!I'm Mudit Bapna</h1>
+<h1 align='center'>Hey! I'm Mudit Bapna <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <!--
 **Muditbapna/Muditbapna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
