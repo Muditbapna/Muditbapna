@@ -4,7 +4,7 @@ I'm a Third year student, studying Computer Science at <a href="https://www.coep
 <br></br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muditbapna&layout=compact&show_icons=true&theme=tokyonight&hide=swig,eC,Powerbuilder&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href ="https://www.linkedin.com/in/mudit-bapna-484b9b20a/"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png"></a>
+<a href ="https://www.linkedin.com/in/mudit-bapna-484b9b20a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <!--
 **Muditbapna/Muditbapna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
