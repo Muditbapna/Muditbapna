@@ -1,4 +1,5 @@
 <h1 align='center'>Hi there!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><br> I'm Mudit Bapna </h1>
+I'm a student at <a href="https://www.coep.org.in/">College of Engineering,Pune</a>
 
 <!--
 **Muditbapna/Muditbapna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
