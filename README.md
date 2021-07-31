@@ -1,4 +1,4 @@
-<h1 align='center'>Hi there!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><br> I'm Mudit Bapna </h1>
+<h1 align='center'>Hi there!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><br> I'm Mudit Bapna 	&#x1F913;</h1>
 I'm a Third year student, studying Computer Science at <a href="https://www.coep.org.in/">College of Engineering,Pune </a>.
 
 <br></br>
