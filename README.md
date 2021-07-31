@@ -1,9 +1,8 @@
 <h1 align='center'>Hi there!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><br> I'm Mudit Bapna </h1>
 I'm a Third year student, studying Computer Science at <a href="https://www.coep.org.in/">College of Engineering,Pune</a>
-<p>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Muditbapna&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
-  </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Muditbapna/Muditbapna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
