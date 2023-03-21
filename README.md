@@ -1,5 +1,5 @@
 <h1 align='center'>Hi there!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><br> I'm Mudit Bapna 	&#x1F913;</h1>
-I'm a Final year student, studying Computer Science at <a href="https://www.coep.org.in/">College of Engineering Technological University,Pune </a>.
+I'm a Final year student, studying Computer Science at <a href="https://www.coep.org.in/">College of Engineering Technological University, Pune </a>.
 
 <br></br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muditbapna&layout=compact&show_icons=true&theme=tokyonight&hide=swig,eC,Powerbuilder&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
